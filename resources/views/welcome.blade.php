@@ -4,7 +4,12 @@
         <title>Laravel</title>
 
         <link href="https://fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
-
+        <link rel="stylesheet" href="css/font-awesome.css">
+        <link rel="stylesheet" type="text/css" href="">
+        <link rel="stylesheet" type="text/css" href="css/MisEstilos.css">
+        <link rel="stylesheet" type="text/css" href="css/estilos.css">
+        <link rel="stylesheet" href="css/bootstrap.css">
+        
         <style>
             html, body {
                 height: 100%;
@@ -36,7 +41,7 @@
         </style>
         <meta name="Pagina de Bica - baia baia" content="baia baia´+ 100tifiko" />
         <meta name="keywords" content="desarrollo" />
-        <link rel="stylesheet" type="text/css" href="">
+       
     </head>
     <body>
         <!--target="_blank" => para que se habra una nueva pestaña-->
@@ -96,7 +101,7 @@
                 <section class="main">
                     <article>
                         <h2>mmmm... baia Baia</h2>
-                        <p>Asi que tenemos a un 100tifiko acá.. y además se cree 1000itar y 3.1416n8</p>
+                        <p class="claseTipo">Asi que tenemos a un 100tifiko acá.. y además se cree 1000itar y 3.1416n8</p>
                     </article>
                 </section>
                 <!--Contenido interesante para el usuario pero no para el navegador-->
