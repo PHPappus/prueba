@@ -1,0 +1,27 @@
+/*Para cambiar el estilo solo al Body*/
+body {
+	background: #000000;
+	color: #fff;
+}
+
+/*Para cambiar el estilo a TODO*/
+*{  margin: 0;
+	padding: 0;
+}
+
+
+h2,h3{
+	color: blue;
+}
+
+h1 {
+	font-size: 60px;
+}
+
+div p {
+	color: green;
+}
+
+.claseTipo{
+	color: orange;
+}
